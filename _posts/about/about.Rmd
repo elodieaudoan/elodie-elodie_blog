@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Elodie" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
 This section must bu include a short presentation of you.
+My name is Audoan Elodie, my SDD teacher is mister GrosJean and I am in a year called master zero in Biology in this 2020-2021 academic year.
 
-- first name/surname, teacher’s name, class name and academic year
