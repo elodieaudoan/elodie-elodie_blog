@@ -1,0 +1,52 @@
+---
+title: "Le guépard"
+description: |
+  A little introduction about the cheetah.
+author:
+  - name: Elodie Audoan
+    url: {}
+  - name: Nicolas Devilez
+    url: {}
+  - name: Engels Guyliann
+    url: https://guyliann.netlify.com/fr
+date: 11-05-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
+# Le guépard
+
+
+## Classification
+The cheetah is a **carnivorous mammal**. Its scientific name is *Acinonyx Jubatus*.
+* Suborder : **Néofelis**.
+* Family : **Felidae**.
+* Classified as "vulnerable" in the UICN.
+<http://adsoullier.free.fr/Gu%E9pard-AdrienSoullier-OK.pdf>
+
+
+## Way of life
+Female    | Male
+--------- | -----------
+Solitary  | Lives in a group
+The cheetah is a diurnal hunter occupying a 50km^2^ wide territory shared with its congeners.
+
+
+## Food
+The cheetah is a **strict carnivore**. He feeds on antelopes, warthogs, ostriches, hares, ... His preferential hunting technique is hunting **on approach**. Indeed, the cheetah is renowned for its speed, which allows him to catch some very fast preys.
+
+
+## Reproduction
+After **90 to 95 days of gestation**, the female gives birth to 3 to 5 cheetahs. The cheetah is a **nestling** species which means that young cheetahs are born blind. They are weaned between 3 and 6 months and stay with their mother for 13 to 20 months. They are sexually mature at the age of 15 months.
+
+![Google image : Guépardeaux](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cheetah_Cubs_%28Acinonyx_jubatus%29_%286491917527%29.jpg/1280px-Cheetah_Cubs_%28Acinonyx_jubatus%29_%286491917527%29.jpg)
